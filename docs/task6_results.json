@@ -1,0 +1,18 @@
+[
+  {
+    "model": "llama3.1:8b",
+    "num_ctx": "default",
+    "avg_tokens_per_second": 5.61,
+    "memory": "5.6 GB",
+    "correct": 15,
+    "total": 20
+  },
+  {
+    "model": "qwen2.5:7b",
+    "num_ctx": "default",
+    "avg_tokens_per_second": 5.98,
+    "memory": "5.1 GB",
+    "correct": 14,
+    "total": 20
+  }
+]
