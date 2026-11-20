@@ -1,4 +1,5 @@
-# Offline Engineering-Docs Assistant (Ollama RAG) — Claude build
+# # Offline Engineering-Docs Assistant (Ollama RAG)
+
 
 Self-contained build for the PwC "Offline Engineering-Docs Assistant"
 assignment, kept in its own `claude_build/` subfolder so it doesn't mix
